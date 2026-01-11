@@ -34,7 +34,7 @@ Easy Technologies provided this dataset via their LinkedIn Profile. You can acce
 - Excel Power Pivot - for building a relational data model, handling large datasets, and creating advanced DAX calculations  
 - RFM Analysis - to segment customers based on Recency, Frequency, and Monetary value
 - Powerpoint - to create the dashboard wireframe  
-- Excel - dashboard development and interactive visualization 
+- Excel - for building interactive dashboards and visuals 
 
 #### Power Pivot & Data Model  
 1. Diagram View (Data Model)  
