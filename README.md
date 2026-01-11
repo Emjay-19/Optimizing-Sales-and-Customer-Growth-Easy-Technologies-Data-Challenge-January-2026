@@ -14,4 +14,9 @@ This project presents an end-to-end sales and customer
 - Excel Power Pivot - building relational data models, handling large datasets, and creating advancved calculations with DAX
 - Data Cleaning & Modeling - preparing raw transactional data for analysis
 - RFM Analysis - segmenting customers based on Recency, Frequency, and Monetary value
--  
+
+
+#### Power Pivot & Data Model  
+1. Diagram View (Data Model)
+The data model defines relationship between tables, enabling seamless analysis without flattening data.
+
