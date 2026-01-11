@@ -87,18 +87,29 @@ Customer Performance
 - The North region shows both low customer count and low revenue, indicating potential growth opportunities  
 
 
-### Actions I Recommend  
+### Recommendations  
 1. Customer Strategy  
-- I recommend prioritizing retention of Champions and Loyal Customers through personalized offers and loyalty programs
-- I would also use high-value customer profiles to guide acquisition campaigns
+- Retain Champions and Loyal Customers with personalized offers and loyalty programs
+- Use high-value customer profiles to guide acquisition campaigns
 
 2. Regional Strategy  
-- I suggest investigating the North region and testing targeted campaigns
+- Investigate and target campaigns in North region
 - Replicate successful West-region strategies in other regions where applicable
 
 3. Product Strategy  
-- I would increase visibility and bundle high-demand products
-- Review or discontinue low-performing products
+- Increase visibility and bundling of high-demand products
+- Review pricing or discontinue consistently low-demand products
 
 4. Revenue Optimization  
-- I recommend focusing on increasing Average Order Value through upselling and cross-selling
+- Focus on increasing Average Order Value through upselling and cross-selling
+
+
+### Limitations  
+This analysis is based on static historical data and does not include real-time updates, marketing activity, seasonality, or cost/margin information. Customer attributes are limited, which restrictsdeeper segmentation, and the analysis assumes the underlying data is accurate without advanced validation checks.  
+
+
+### Conclusion  
+In this project, i demonstrated how Excel, Excel Power Pivot, and DAX can be used to transform raw sales, products, and customer data into actionable business insights. The dashboards reveal that revenue growth is strong but concentrated in high-value customers, products, and regions highlighting clear opportunities for optimization.  
+
+**Impact:**   
+This analysis provides a clear foundation for improving customer retention, optimizing product focus, addressing regional underperformance, and shifting growth strategy from volume-driven to value-driven decisions.
