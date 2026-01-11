@@ -6,3 +6,8 @@ Interactive dashboards turning sales and customer data into actionable insights 
 ### Project Overview  
 This project presents an end-to-end sales and customer
  
+
+
+
+### Tools & Techniques  
+- Excel - dashboard development and interactive visualization  
