@@ -11,3 +11,7 @@ This project presents an end-to-end sales and customer
 
 ### Tools & Techniques  
 - Excel - dashboard development and interactive visualization  
+- Excel Power Pivot - building relational data models, handling large datasets, and creating advancved calculations with DAX
+- Data Cleaning & Modeling - preparing raw transactional data for analysis
+- RFM Analysis - segmenting customers based on Recency, Frequency, and Monetary value
+-  
