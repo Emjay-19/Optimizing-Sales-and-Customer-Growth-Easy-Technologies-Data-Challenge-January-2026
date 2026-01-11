@@ -9,12 +9,12 @@ I created an end-to-end sales and customer performance analysis using interactiv
 This project consists of two dashboards:  
 1. Business Performance Dashboard - shows revenue, orders, products, regions, and sales trends.
 
-<img width="590" height="346" alt="Screenshot 2026-01-10 211140" src="https://github.com/user-attachments/assets/322e1e7a-1f38-49e0-b04e-89139b3cd03f" />
+<img width="557" height="330" alt="Business Performance" src="https://github.com/user-attachments/assets/414a4473-c81d-4830-af89-b0a6ec16cdcc" />
 
 
 2. Customer Performance Dashboard - shows customer value, behaviour, segmentation, and demographics.
 
-<img width="586" height="337" alt="Screenshot 2026-01-10 083821" src="https://github.com/user-attachments/assets/0f3be25c-d9a7-467e-ab24-ea7e204d399c" />
+<img width="567" height="334" alt="Customer Performance" src="https://github.com/user-attachments/assets/6ee7c2de-fe7a-45b4-92e0-b98a66689403" />
 
 
 My goal was to go beyond simple reporting metrics and deliver actionable insights for decision-making.  
