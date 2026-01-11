@@ -80,7 +80,8 @@ Business Performance
 - Revenue growth is driven by order volume, not price increases  
 - The West region leads revenue despite not having the highest customer count  
 - Sports and Home Appliances are the top-performing categories  
-- A small set of high-demand products drives most of the revenue  
+- A small set of high-demand products drives most of the revenue
+- A small group of sales reps drives a large share of total revenue, highlighting high-performing individuals as well as potential gaps in team productivity  
 
 Customer Performance  
 - Champions generate the majority of revenue ($9.7M)  
@@ -101,8 +102,10 @@ Customer Performance
 - Increase visibility and bundling of high-demand products
 - Review pricing or discontinue consistently low-demand products
 
-4. Revenue Optimization  
+4. Revenue Optimization & Employee Performance  
 - Focus on increasing Average Order Value through upselling and cross-selling
+- Recognize and reward high-performing sales reps and provide training or support to underperforming employees to balance team collaborstiion
+- Use employee revenue insights to optimize territories, workloads, and incentive programs
 
 
 ### Limitations  
