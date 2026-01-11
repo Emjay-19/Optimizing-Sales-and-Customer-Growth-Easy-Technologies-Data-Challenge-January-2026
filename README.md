@@ -4,9 +4,12 @@ Interactive dashboards turning sales and customer data into actionable insights 
 ## Project Topic: Sales & Customer Performance Dashboard
 
 ### Project Overview  
-This project presents an end-to-end sales and customer
- 
+This project presents an end-to-end sales and customer performance analysis using interactive dashboards to help stakeholders ynderstand what is happening in the business, why it is happening, and what actions to take next.  
 
+The analysis is split into two dashboards:  
+1. Business Performance Dashboard - revenue, orders, products, regions, and sales trends.
+2. Customer Performance Dashboard - customer value, behaviour, segmentation, and demographics  
+The goal is not just reporting metrics, but enabling data-driven decision-making.  
 
 
 ### Tools & Techniques  
