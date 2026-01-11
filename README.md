@@ -8,9 +8,9 @@ This project presents an end-to-end sales and customer performance analysis usin
 
 The analysis is split into two dashboards:  
 1. Business Performance Dashboard - revenue, orders, products, regions, and sales trends.
-2. Customer Performance Dashboard - customer value, behaviour, segmentation, and demographics  
-The goal is not just reporting metrics, but enabling data-driven decision-making.  
+2. Customer Performance Dashboard - customer value, behaviour, segmentation, and demographics
 
+The goal is not just reporting metrics, but enabling data-driven decision-making.  
 
 ### Tools & Techniques  
 - Excel - dashboard development and interactive visualization  
