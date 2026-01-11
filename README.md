@@ -29,12 +29,12 @@ My goal was to go beyond simple reporting metrics and deliver actionable insight
 ### Data Source  
 Easy Technologies provided this dataset via their LinkedIn Profile. You can access the dataset for this project [here](https://docs.google.com/spreadsheets/d/1hW1r-VlsuO733q5ETOJPgw9pQkl2j3Zs/edit?usp=drivesdk&ouid=112141935801493290562&rtpof=true&sd=true)
 
-### Tools & Techniques  
-- Excel - dashboard development and interactive visualization  
-- Excel Power Pivot - building relational data models, handling large datasets, and creating advancved calculations with DAX
-- Data Cleaning & Modeling - preparing raw transactional data for analysis
-- RFM Analysis - segmenting customers based on Recency, Frequency, and Monetary value
-
+### Tools & Techniques    
+- Data Cleaning & Modeling - to prepare raw transactional data for analysis  
+- Excel Power Pivot - for building a relational data model, handling large datasets, and creating advanced DAX calculations  
+- RFM Analysis - to segment customers based on Recency, Frequency, and Monetary value
+- Powerpoint - to create the dashboard wireframe  
+- Excel - dashboard development and interactive visualization 
 
 #### Power Pivot & Data Model  
 1. Diagram View (Data Model)  
