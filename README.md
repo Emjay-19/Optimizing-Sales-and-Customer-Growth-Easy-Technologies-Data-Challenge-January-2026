@@ -72,6 +72,7 @@ Date Table Sample:
 - Average Order Value: $2,907
 - Total Customers: 300
 - Orders per Customer: 16.67
+- Avearge Customer Value: $48,455  
 
 ### Key Insights I Discovered  
 
