@@ -27,7 +27,8 @@ My goal was to go beyond simple reporting metrics and deliver actionable insight
 - Where are the key opportunities and risks in the business?  
 
 ### Data Source  
-https://docs.google.com/spreadsheets/d/1hW1r-VlsuO733q5ETOJPgw9pQkl2j3Zs/edit?usp=drivesdk&ouid=112141935801493290562&rtpof=true&sd=true
+You can access the dataset for this project  
+[here]https://docs.google.com/spreadsheets/d/1hW1r-VlsuO733q5ETOJPgw9pQkl2j3Zs/edit?usp=drivesdk&ouid=112141935801493290562&rtpof=true&sd=true
 
 ### Tools & Techniques  
 - Excel - dashboard development and interactive visualization  
