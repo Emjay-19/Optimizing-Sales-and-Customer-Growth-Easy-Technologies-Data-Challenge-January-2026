@@ -20,3 +20,5 @@ This project presents an end-to-end sales and customer
 1. Diagram View (Data Model)
 The data model defines relationship between tables, enabling seamless analysis without flattening data.
 
+<img width="617" height="348" alt="Screenshot 2026-01-11 123911" src="https://github.com/user-attachments/assets/6e8a0c58-422d-4fea-9dd9-6f700a025cdd" />
+
