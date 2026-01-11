@@ -23,8 +23,8 @@ The data model defines relationship between tables, enabling seamless analysis w
 <img width="617" height="348" alt="Screenshot 2026-01-11 123911" src="https://github.com/user-attachments/assets/6e8a0c58-422d-4fea-9dd9-6f700a025cdd" />
 
 2. Data View (Sample Tables)
-Sales Table Sample:
 
+Sales Table Sample:  
 <img width="768" height="329" alt="Sales Table" src="https://github.com/user-attachments/assets/ddb25a47-4293-4f43-b402-41ad9fbf6807" />
 
 
