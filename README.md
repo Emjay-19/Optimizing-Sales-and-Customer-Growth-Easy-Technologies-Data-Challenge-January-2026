@@ -113,7 +113,7 @@ This analysis is based on static historical data and does not include real-time 
 
 
 ### Conclusion  
-In this project, i demonstrated how Excel, Excel Power Pivot, and DAX can be used to transform raw sales, products, and customer data into actionable business insights. The dashboards reveal that revenue growth is strong but concentrated in high-value customers, products, and regions highlighting clear opportunities for optimization.  
+In this project, i demonstrated how Excel, Excel Power Pivot, and DAX can be used to transform raw sales, products, and customer data into actionable business insights. The dashboards reveal that revenue growth is strong but concentrated in high-value customers, products, regions, and a small group of top-performing sales employees  highlighting clear opportunities for optimization.  
 
 **Impact:**   
-This analysis provides a clear foundation for improving customer retention, optimizing product focus, addressing regional underperformance, and shifting growth strategy from volume-driven to value-driven decisions.
+This analysis provides a clear foundation for improving customer retention, optimizing product focus, addressing regional underperformance, and enhancing sales team performance through recognition, training, and incentive alignment, while shifting growth strategy from volume-driven to value-driven decisions.
