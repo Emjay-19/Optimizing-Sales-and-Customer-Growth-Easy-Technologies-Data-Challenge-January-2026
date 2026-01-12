@@ -93,6 +93,9 @@ Customer Performance
 1. Customer Strategy  
 - Retain Champions and Loyal Customers with personalized offers and loyalty programs
 - Use high-value customer profiles to guide acquisition campaigns
+- Enroll potential loyalists into loyalty or reward programs to encourage repeat purchases
+- Deploy targeted win-back campaigns focused on at risk customers
+- For the three lost customers, a targeted, low-cost, one-to-one outreach is recommended to understand churn reasons and attempt selective reactivation, while using the insights gained to improve retention strategies for active and at-risk customers  
 
 2. Regional Strategy  
 - Investigate and target campaigns in North region
